@@ -30,4 +30,4 @@ pip install -r requirements.txt
 
 
 
-## This Code is the joint work of Sauradip Nag and another Collaborator . Please include proper citations when using any of the results obtained from this repository.
+## This Code is the joint work of Sauradip Nag and Ayan K Bhunia . Please include proper citations when using any of the results obtained from this repository.
