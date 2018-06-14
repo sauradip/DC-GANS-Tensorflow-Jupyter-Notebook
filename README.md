@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/137320756.svg)](https://zenodo.org/badge/latestdoi/137320756)
+
 
 # DC GANS Tensorflow Jupyter Notebook
 
